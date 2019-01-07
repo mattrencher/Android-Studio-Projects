@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SFSFX</string>
+    <string name="uppercut">UPPERCUT</string>
+    <string name="characters">CHARACTERS</string>
+    <string name="round">ROUND</string>
+    <string name="finale">FINAL</string>
+    <string name="perfect">PERFECT</string>
+    <string name="lose">LOSE</string>
+    <string name="win">WIN</string>
+    <string name="you">YOU</string>
+    <string name="fight">FIGHT</string>
+    <string name="six">SIX</string>
+    <string name="country">COUNTRY</string>
+    <string name="announcer">ANNOUNCER</string>
+    <string name="brazil">Brazil</string>
+    <string name="usa">USA</string>
+    <string name="spain">Spain</string>
+    <string name="india">India</string>
+    <string name="thailand">Thailand</string>
+    <string name="china">China</string>
+    <string name="ussr">USSR</string>
+    <string name="japan">JAPAN</string>
+    <string name="yoga">YOGA</string>
+    <string name="flame">FLAME</string>
+    <string name="sonic_boom">SONIC BOOM</string>
+    <string name="hadoken">HADOKEN</string>
+    <string name="shoryuken">SHORYUKEN</string>
+    <string name="tiger">TIGER</string>
+    <string name="fire">FIRE</string>
+</resources>
